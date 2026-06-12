@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 🚀 Full-Stack Web Developer | Specializing in Backend Architecture
+### Full-Stack Web Developer | Specializing in Backend Architecture
 Aspiring web developer with passion for hands-on learning and continuous improvement. Currently building skills in both frontend and backend development, with a focus on creating practical and efficient solutions. Demonstrates strong curiosity, problem-solving ability, and a commitment to exploring new technologies. Dedicated to personal and professional growth, with the goal of becoming a versatile and effective developer.
 
 
