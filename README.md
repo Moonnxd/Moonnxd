@@ -26,19 +26,6 @@ I am a passionate Full-Stack Developer with a strong focus on backend architectu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Moonnxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Raymond's GitHub Stats" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Moonnxd&theme=dark&hide_border=false" alt="GitHub Streak" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Moonnxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="60%" />
-</p>
-
----
-
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Monnnnropeta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-ropeta-815119340/) 
 
