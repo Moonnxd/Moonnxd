@@ -42,6 +42,3 @@ I am a passionate Full-Stack Developer with a strong focus on backend architectu
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Monnnnropeta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-ropeta-815119340/) 
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Moonnxd&icon=4&color=9" alt="Profile Views" />
-</p>
